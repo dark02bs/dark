@@ -1,2 +1,2 @@
 # dark
-first Gut repository
+first Git repository
